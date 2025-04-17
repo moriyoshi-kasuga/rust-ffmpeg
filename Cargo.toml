@@ -115,4 +115,5 @@ optional = true
 
 [dependencies.ffmpeg-sys-next]
 version = "7.1.0"
+git = "https://github.com/moriyoshi-kasuga/rust-ffmpeg-sys.git"
 default-features = false
